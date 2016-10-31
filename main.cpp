@@ -5,7 +5,9 @@
 #include "ncurses.h"
 #include "fsmClient.h"
 
+cout << putooooooooooo;
 
+putooooooo
 typedef enum{NOEVENT,PUT,GET,QUIT} inputType;
 #define ERROR -1
 using namespace std;
